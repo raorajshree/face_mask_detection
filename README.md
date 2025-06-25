@@ -113,8 +113,8 @@ This will start capturing live feed and performing detection frame by frame.
 
 Here’s a frame from the real-time detection:
 
-![Sample Output](detection_example.jpg)
-
+![Sample Output](detection_example.png)
+![Sample Output](detection_example1.png)
 
 
 
