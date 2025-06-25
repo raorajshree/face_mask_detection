@@ -1,7 +1,7 @@
 
 # 🚨 AI_FINAL_PROJECT: Real-Time Detection System using TensorFlow + OpenCV
 
-
+![Project Banner](A_custom_GitHub_repository_banner_image_showcases_.png)
 
 This project implements a **real-time detection system** that integrates live camera feeds with a dual-stage **Convolutional Neural Network (CNN)** using **TensorFlow** and **OpenCV**. It is optimized for public safety and surveillance applications in dynamic environments.
 
@@ -109,7 +109,11 @@ python real_time_detector.py
 This will start capturing live feed and performing detection frame by frame.
 
 ---
+## 📸 Sample Output
 
+Here’s a frame from the real-time detection:
+
+![Sample Output](detection_example.jpg)
 
 
 
